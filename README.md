@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Gustavo Gonçalves  
+# 👋🏾 Olá! Eu sou o Gustavo Gonçalves  
 
 🎓 Estudante de **Front-end**  
 💻 Atualmente aprendendo **HTML** e me preparando para **CSS** e **JavaScript**  
