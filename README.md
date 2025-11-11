@@ -16,7 +16,7 @@
 
 ### 🚀 O que estou estudando
 🧩 **HTML**  
-🎨 **CSS** (em breve)  
+🎨 **CSS**  
 ⚙️ **JavaScript** (em breve)  
 
 
